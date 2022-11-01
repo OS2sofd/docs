@@ -4,3 +4,7 @@ Nedenfor er en oversigt over de online dokumenter der findes til OS2sofd, og hva
 * [Arkitektur](Arkitektur.md) - dette dokument indeholder en overordnet beskrivelse af systemarkitekturen i OS2sofd.
 * [Agenter](Agents.md) - dette dokument indeholder relevante informationer omkring lokale integrationer, også kaldet Agenter i OS2sofd lingo.
 * [Middleware](Middleware.md) - dette dokument indeholder relevante informationer omkring middleware, som binder eksterne systemer sammen med OS2sofd.
+
+Endeligt findes en del dokumentation på det officiele SOFD website
+
+https://www.sofd.io/documentation.html
